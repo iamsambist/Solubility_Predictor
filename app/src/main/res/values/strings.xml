@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Solubility_Finder</string>
+    <string name="display_name">finding_solubility</string>
+    <string name="ph_molecule">PH Value</string>
+    <string name="molecular_weight">Molecular Weight</string>
+    <string name="rotable_bonds">Number of Rotating Bonds</string>
+    <string name="Aromatic_Proportion">Aromatic Proportion</string>
+    <string name="ph_value">Ph Value</string>
+    <string name="details">Details</string>
+    <string name="submit">Submit</string>
+
+
+<string-array name="Details">
+    <item>a figure expressing the acidity or alkalinity of a solution on a
+        logarithmic scale on which 7 is neutral, lower values are more acid
+        and higher values more alkaline. The pH is equal to −log10 c,
+        where c is the hydrogen ion concentration in moles per litre. </item>
+    <item>
+        The sum of the atomic masses of all atoms in a molecule,
+        based on a scale in which the atomic masses of hydrogen,
+        carbon, nitrogen, and oxygen are 1, 12, 14, and 16, respectively.
+    </item>
+
+    <item> Rotation around the line between two bonded atoms (the bond axis),
+    where one end of the bond is stationary and the other rotates.</item>
+    <item>
+        An aromatic molecule or compound is one that has special stability
+        and properties due to a closed loop of electrons
+    </item>
+</string-array>
+</resources>
