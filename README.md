@@ -1,5 +1,5 @@
 # Solubility_Predictor
-here you will see the Server folder, which is not the part of Application but instead it consist 2 files.
+here you will see the Server folder, which is not the part of Android Application.'remove it to run android application on your machine' but instead it consist 2 files.
     1> Solubility Checker.ipynb
     it is a jupyter notebook file which contain all the neccessary code to build and ml model using linear regression which will predict a value based upon the input data.
     
